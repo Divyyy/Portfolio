@@ -46,7 +46,7 @@ export const Projects = () => {
 
   return (
     <section id="projects" className="min-h-screen py-20 bg-black text-white">
-      <RevealOnScroll>
+     // <RevealOnScroll>
       <div className="max-w-5xl mx-auto px-4">
         <h2 className="text-3xl font-bold mb-12 text-center bg-gradient-to-r from-cyan-400 to-fuchsia-500 bg-clip-text text-transparent">
           My Projects
@@ -98,7 +98,7 @@ export const Projects = () => {
           ))}
         </div>
       </div>
-      </RevealOnScroll>
+     // </RevealOnScroll>
     </section>
   );
 };
