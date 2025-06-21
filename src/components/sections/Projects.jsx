@@ -18,6 +18,14 @@ export const Projects = () => {
       link: "https://github.com/Divyyy/to-do-list",
       live: "https://divyyy.github.io/to-do-list/",
     },
+     {
+      title: "To-Do List App",
+      description:
+        "A clean and minimal to-do list app with support for task reminders, dark/light mode toggle, and background customization.",
+      techStack: ["HTML", "CSS", "JavaScript"],
+      link: "https://github.com/Divyyy/Stopwatch",
+      live: "https://divyyy.github.io/stopwatch/",
+    },
     {
       title: "Text to Speech",
       description:
